@@ -3,7 +3,6 @@
 
 My repositories:
 - Computer
-  - [Computer System](https://github.com/Hcpty/Awesome-Computer)
   - [Dum-E](https://github.com/Hcpty/dum-e)
   - [Arc](https://github.com/Hcpty/arc)
 - Feed
