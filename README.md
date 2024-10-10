@@ -1,5 +1,5 @@
 # Readme
-一个认为痛并快乐着的人生最值得过的人。
+一个认为只有痛并快乐着的人生才值得过的男人。
 
 My repositories:
 - Computer
