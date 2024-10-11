@@ -3,5 +3,5 @@
 Config files for my GitHub profile.
 
 My repositories:
-- [Dum-E](https://github.com/Hcpty/dum-e)
-- [Arc](https://github.com/Hcpty/arc)
+- [Dum-E](https://github.com/hcpty/dum-e)
+- [Arc](https://github.com/hcpty/arc)
