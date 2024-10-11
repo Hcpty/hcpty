@@ -3,7 +3,7 @@ Config files for my GitHub profile.
 
 My repositories:
 - Human
-  - [Words](https;//github.com/Hcpty/Words)
+  - [Words](https://github.com/Hcpty/Words)
 - Computer
   - [Computer](https://github.com/Hcpty/Computer)
   - [Network](https://github.com/Hcpty/Network)
