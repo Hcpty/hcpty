@@ -8,4 +8,4 @@ My repositories:
   - [Network](https://github.com/Hcpty/Network)
   - [Dum-E](https://github.com/Hcpty/dum-e)
   - [Arc](https://github.com/Hcpty/arc)
-- Feed & Fuck
+- Feed and Fuck
