@@ -2,6 +2,6 @@
 Config files for my GitHub profile.
 
 Repositories:
-- [Electronic Device](https://github.com/hcpty/electronic-device)
+- [Little Four](https://github.com/hcpty/little-four)
 - [Dum-E](https://github.com/hcpty/dum-e)
 - [Arc](https://github.com/hcpty/arc)
