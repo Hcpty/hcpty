@@ -1,7 +1,7 @@
 # Readme
 Config files for my GitHub profile.
 
-痛并快乐才是正常的。
+痛并快乐的，才是正常的。
 
 My Repositories:
 - [Little Four](https://github.com/hcpty/little-four)
