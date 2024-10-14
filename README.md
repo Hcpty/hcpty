@@ -7,4 +7,4 @@ My Repositories:
 - [Arc](https://github.com/hcpty/arc)
 
 ### Credits
-- [GitHub](https://github.com)
+- GitHub
