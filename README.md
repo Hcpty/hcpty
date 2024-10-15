@@ -7,4 +7,8 @@ Repositories:
 - [Arc](https://github.com/hcpty/arc)
 
 ### Credits
-- GitHub
+- CU
+- ALU
+- Registers
+- RAM
+- ROM, Interrupts Handlers, MMU and Page Table
