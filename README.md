@@ -1,7 +1,7 @@
 # Readme
 Config files for my GitHub profile.
 
-痛并快乐的生活，才是正常的生活。
+痛并快乐着的生活，才是正常的生活。
 
 生活的底色是血淋淋。
 
