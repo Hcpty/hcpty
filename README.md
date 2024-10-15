@@ -5,7 +5,7 @@ Config files for my GitHub profile.
 
 生活的底色是血淋淋。
 
-人应该领悟至道，然后做回人。
+人需要领悟至道，然后做回人。
 
 My Repositories:
 - [Little Four](https://github.com/hcpty/little-four)
