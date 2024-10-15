@@ -3,7 +3,7 @@ Config files for my GitHub profile.
 
 痛并快乐着的生活，才是正常的生活。
 
-生活的颜色是血淋淋。
+生活是血淋淋的。
 
 人需要领悟至道，然后做人。
 
