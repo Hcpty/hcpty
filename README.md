@@ -3,6 +3,8 @@ Config files for my GitHub profile.
 
 痛并快乐的，才是正常的。
 
+生活的底色是血淋淋。
+
 My Repositories:
 - [Little Four](https://github.com/hcpty/little-four)
 - [Dum-E](https://github.com/hcpty/dum-e)
