@@ -7,4 +7,4 @@ Repositories:
 - [Arc](https://github.com/hcpty/arc)
 
 ### Credits
-- Ang Lee (李安)
+- GitHub
