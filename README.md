@@ -11,4 +11,4 @@ Repositories:
 - ALU
 - Registers
 - RAM
-- ROM, Interrupts Handlers
+- ROM and Interrupts Handlers
