@@ -10,5 +10,5 @@ Repositories:
 - CU
 - ALU
 - Registers
-- MMU, Page Table and RAM
+- MMU, RAM and Page Table
 - ROM, Interrupts Handlers and Apps
