@@ -11,4 +11,4 @@ Repositories:
 - ALU
 - Registers
 - MMU, TLB and RAM
-- ROM, Interrupts Handlers and Apps
+- ROM, Interrupt Handlers and Apps
