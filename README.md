@@ -2,7 +2,7 @@
 Config files for my GitHub profile.
 
 Repositories:
-- [Dragon Back Logbook](https://github.com/hcpty/dragon-back-logbook)
+- [Dragon Back Book](https://github.com/hcpty/dragon-back-book)
 - [Little Four](https://github.com/hcpty/little-four)
 - [Dum-E](https://github.com/hcpty/dum-e)
 - [Arc](https://github.com/hcpty/arc)
