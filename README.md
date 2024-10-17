@@ -1,7 +1,7 @@
 # Readme
 Config files for my GitHub profile.
 
-Repositories:
+### Repositories
 - [My Philosophy](https://github.com/hcpty/my-philosophy)
 - [Little Four](https://github.com/hcpty/little-four)
 - [Dum-E](https://github.com/hcpty/dum-e)
