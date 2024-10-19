@@ -1,8 +1,10 @@
 # Readme
 Config files for my GitHub profile.
 
-### Repositories
+### My Philosophy
 - [Dragon Back Book](https://github.com/hcpty/dragon-back-book)
+
+### My Skill
 - [Little Four](https://github.com/hcpty/little-four)
 - [Dum-E](https://github.com/hcpty/dum-e)
 - [Arc](https://github.com/hcpty/arc)
