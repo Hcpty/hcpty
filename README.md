@@ -2,7 +2,7 @@
 Config files for my GitHub profile.
 
 ### My Philosophy
-- [Dragon Back Book](https://github.com/hcpty/dragon-back-book)
+- [My Philosophy](https://github.com/hcpty/my-philosophy)
 
 ### My Skill
 - [Little Four](https://github.com/hcpty/little-four)
