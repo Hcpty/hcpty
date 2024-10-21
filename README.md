@@ -13,4 +13,4 @@ Config files for my GitHub profile.
 - Registers
 - MMU, TLB and RAM
 - ROM, Interrupt Handlers and Apps
-- and so on
+- ...
