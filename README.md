@@ -4,8 +4,6 @@ Config files for my GitHub profile.
 ### Repositories
 - [My Philosophy](https://github.com/hcpty/my-philosophy)
 - [Little Four](https://github.com/hcpty/little-four)
-- [Dum-E](https://github.com/hcpty/dum-e)
-- [Arc](https://github.com/hcpty/arc)
 - [Interrupts](https://github.com/hcpty/interrupts)
 - [Traditional Memory Access Transfer vs Direct Memory Access Transfer](https://github.com/hcpty/traditional-memory-access-transfer-vs-direct-memory-access-transfer)
 - [Traditional-copy vs Zero-copy](https://github.com/hcpty/traditional-copy-vs-zero-copy)
