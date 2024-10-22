@@ -15,7 +15,7 @@ Config files for my GitHub profile.
 - [Available, Big and Fast](https://github.com/hcpty/available-big-and-fast)
 - [Inheritance and Overloading and Object Composition](https://github.com/hcpty/inheritance-and-overloading-and-object-composition)
 - [SSH, TLS and DNSSEC](https://github.com/hcpty/ssh-tls-and-dnssec)
-- [PhD Dissertation of Roy Thomas Fielding](https://github.com/hcpty/phd-disseration-of-roy-thomas-fielding)
+- [Representational State Transfer Architectural Style](https://github.com/hcpty/representational-state-transfer-architectural-style)
 - [HTTP Cookie](https://github.com/hcpty/http-cookie)
 - [10000-Connection Solutions and 10000000-Connection Solutions](https://github.com/hcpty/10000-connection-solutions-and-10000000-connection-solutions)
 - [12 Factors](https://github.com/hcpty/12-factors)
