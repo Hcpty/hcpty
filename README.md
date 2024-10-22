@@ -30,6 +30,6 @@ Config files for my GitHub profile.
 - CU
 - ALU
 - Registers
-- MMU, TLB and RAM
+- MMU, Page Table and RAM
 - ROM, Interrupt Handlers and Apps
 - ...
