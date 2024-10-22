@@ -17,11 +17,11 @@ Config files for my GitHub profile.
 - [SSH, TLS and DNSSEC](https://github.com/hcpty/ssh-tls-and-dnssec)
 - [PhD Dissertation of Roy Thomas Fielding](https://github.com/hcpty/phd-disseration-of-roy-thomas-fielding)
 - [HTTP Cookie](https://github.com/hcpty/http-cookie)
+- [12 Factors](https://github.com/hcpty/12-factors)
 - [10000-Connection Solutions and 10000000-Connection Solutions](https://github.com/hcpty/10000-connection-solutions-and-10000000-connection-solutions)
 - [Man-In-The-Middle Attack](https://github.com/hcpty/man-in-the-middle-attack)
 - [Denial-Of-Service Attack](https://github.com/hcpty/denial-of-service-attack)
 - [Password Storage](https://github.com/hcpty/password-storage)
-- [12 Factors](https://github.com/hcpty/12-factors)
 
 ### Credits
 - CU
