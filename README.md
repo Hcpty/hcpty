@@ -2,8 +2,8 @@
 Config files for my GitHub profile.
 
 ### Repositories
-- [My Pain](https://github.com/hcpty/my-pain)
-- [My Curiosity](https://github.com/hcpty/my-curiosity)
+- [My Problem](https://github.com/hcpty/my-problem)
+- [My Occupation](https://github.com/hcpty/my-occupation)
 - [Interrupts](https://github.com/hcpty/interrupts)
 - [Traditional Memory Access Transfer vs Direct Memory Access Transfer](https://github.com/hcpty/traditional-memory-access-transfer-vs-direct-memory-access-transfer)
 - [Traditional-copy vs Zero-copy](https://github.com/hcpty/traditional-copy-vs-zero-copy)
