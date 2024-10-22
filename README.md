@@ -18,7 +18,8 @@ Config files for my GitHub profile.
 - [PhD Dissertation of Roy Thomas Fielding](https://github.com/hcpty/phd-disseration-of-roy-thomas-fielding)
 - [HTTP Cookie](https://github.com/hcpty/http-cookie)
 - [10000-Connection Solutions and 10000000-Connection Solutions](https://github.com/hcpty/10000-connection-solutions-and-10000000-connection-solutions)
-- [Man In The Middle Attack](https://github.com/hcpty/man-in-the-middle-attack)
+- [Man-In-The-Middle Attack](https://github.com/hcpty/man-in-the-middle-attack)
+- [Denial-Of-Service Attack](https://github.com/hcpty/denial-of-service-attack)
 - [12 Factors](https://github.com/hcpty/12-factors)
 
 ### Credits
