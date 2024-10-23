@@ -17,7 +17,7 @@ Config files for my GitHub profile.
 - [Representational State Transfer Architectural Style](https://github.com/hcpty/representational-state-transfer-architectural-style)
 - [HTTP Cookie](https://github.com/hcpty/http-cookie)
 - [Engine-Extension-Activity Architecture](https://github.com/hcpty/engine-extension-activity-architecture)
-- [Sync Rate](https://github.com/hcpty/sync-rate)
+- [Different Types of Databases](https://github.com/hcpty/different-types-of-databases)
 - [Page Table](https://github.com/hcpty/page-table)
 - [10000-Connection Solutions and 10000000-Connection Solutions](https://github.com/hcpty/10000-connection-solutions-and-10000000-connection-solutions)
 - [12 Factors](https://github.com/hcpty/12-factors)
