@@ -18,7 +18,7 @@ Config files for my GitHub profile.
 - [Engine-Extension-Activity Architecture](https://github.com/hcpty/engine-extension-activity-architecture)
 - [Different Types of Databases](https://github.com/hcpty/different-types-of-databases)
 - [Foobarlock](https://github.com/hcpty/foobarlock)
-- [Network-Based Locking System](https://github.com/hcpty/network-based-locking-system)
+- [Network-Based Locking Systems](https://github.com/hcpty/network-based-locking-systems)
 - [Page Table](https://github.com/hcpty/page-table)
 - [10000-Connection Solutions and 10000000-Connection Solutions](https://github.com/hcpty/10000-connection-solutions-and-10000000-connection-solutions)
 - [12 Factors](https://github.com/hcpty/12-factors)
