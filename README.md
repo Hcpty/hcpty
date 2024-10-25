@@ -20,6 +20,7 @@ Config files for my GitHub profile.
 - [Foobarlock](https://github.com/hcpty/foobarlock)
 - [Network-Based Locking System](https://github.com/hcpty/network-based-locking-system)
 - [Page Table](https://github.com/hcpty/page-table)
+- [HTTP Caching](https://github.com/hcpty/HTTP-Caching)
 - [10000-Connection Solutions and 10000000-Connection Solutions](https://github.com/hcpty/10000-connection-solutions-and-10000000-connection-solutions)
 - [12 Factors](https://github.com/hcpty/12-factors)
 - [Man-In-The-Middle Attack](https://github.com/hcpty/man-in-the-middle-attack)
