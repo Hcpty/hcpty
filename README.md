@@ -1,7 +1,7 @@
 # Readme
 Config files for my GitHub profile.
 
-### Research
+### Theories
 - [My Problems](https://github.com/hcpty/my-problems)
 - [My Occupation](https://github.com/hcpty/my-occupation)
 - [Interrupts](https://github.com/hcpty/interrupts)
