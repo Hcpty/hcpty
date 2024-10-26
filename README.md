@@ -29,6 +29,10 @@ Config files for my GitHub profile.
 - [Password Storage](https://github.com/hcpty/password-storage)
 - [Redundant Array of Independent Disks](https://github.com/hcpty/redundant-array-of-independent-disks)
 
+### Tools
+- [Arc](https://github.com/hcpty/arc)
+- [Dum-E](https://github.com/hcpty/dum-e)
+
 ### Credits
 - CU
 - ALU
