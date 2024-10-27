@@ -18,7 +18,7 @@ Config files for my GitHub profile.
 - [Engine-Extension-Activity Architecture](https://github.com/hcpty/engine-extension-activity-architecture)
 - [Different Types of Databases](https://github.com/hcpty/different-types-of-databases)
 - [Foobarlock](https://github.com/hcpty/foobarlock)
-- [Network Locks](https://github.com/hcpty/network-locks)
+- [Remote Locks](https://github.com/hcpty/remote-locks)
 - [Page Table](https://github.com/hcpty/page-table)
 - [HTTP Caching](https://github.com/hcpty/HTTP-Caching)
 - [10000-Connection Solutions and 10000000-Connection Solutions](https://github.com/hcpty/10000-connection-solutions-and-10000000-connection-solutions)
