@@ -20,6 +20,7 @@ Config files for my GitHub profile.
 - [Foobarlock](https://github.com/hcpty/foobarlock)
 - [Remote Mutex Lock and Remote Readers-Writer Lock](https://github.com/hcpty/remote-mutex-lock-and-remote-readers-writer-lock)
 - [HTTP Caching](https://github.com/hcpty/HTTP-Caching)
+- [Controlled-Access CDN](https://github.com/hcpty/controlled-access-cdn)
 - [Page Table](https://github.com/hcpty/page-table)
 - [Redundant Array of Independent Disks](https://github.com/hcpty/redundant-array-of-independent-disks)
 - [10000-Connection Solutions and 10000000-Connection Solutions](https://github.com/hcpty/10000-connection-solutions-and-10000000-connection-solutions)
