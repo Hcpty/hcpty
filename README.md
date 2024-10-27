@@ -20,6 +20,7 @@ Config files for my GitHub profile.
 - [Foobarlock](https://github.com/hcpty/foobarlock)
 - [Remote Mutex Lock and Remote Readers-Writer Lock](https://github.com/hcpty/remote-mutex-lock-and-remote-readers-writer-lock)
 - [Page Table](https://github.com/hcpty/page-table)
+- [Redundant Array of Independent Disks](https://github.com/hcpty/redundant-array-of-independent-disks)
 - [HTTP Caching](https://github.com/hcpty/HTTP-Caching)
 - [10000-Connection Solutions and 10000000-Connection Solutions](https://github.com/hcpty/10000-connection-solutions-and-10000000-connection-solutions)
 - [12 Factors](https://github.com/hcpty/12-factors)
@@ -27,7 +28,6 @@ Config files for my GitHub profile.
 - [SSH, TLS and DNSSEC](https://github.com/hcpty/ssh-tls-and-dnssec)
 - [Denial-Of-Service Attack](https://github.com/hcpty/denial-of-service-attack)
 - [Password Storage](https://github.com/hcpty/password-storage)
-- [Redundant Array of Independent Disks](https://github.com/hcpty/redundant-array-of-independent-disks)
 
 ### Utilities
 - [Arc](https://github.com/hcpty/arc)
