@@ -22,6 +22,7 @@ Config files for my GitHub profile.
 - [HTTP Caching](https://github.com/hcpty/HTTP-Caching)
 - [Controlled-Access CDN](https://github.com/hcpty/controlled-access-cdn)
 - [Page Table](https://github.com/hcpty/page-table)
+- [Three-Level Resource ID](https://github.com/hcpty/three-level-resource-id)
 - [Redundant Array of Independent Disks](https://github.com/hcpty/redundant-array-of-independent-disks)
 - [10000-Connection Solutions and 10000000-Connection Solutions](https://github.com/hcpty/10000-connection-solutions-and-10000000-connection-solutions)
 - [12 Factors](https://github.com/hcpty/12-factors)
