@@ -18,6 +18,7 @@ Config files for my GitHub profile.
 - [Engine-Extension-Activity Architecture](https://github.com/hcpty/engine-extension-activity-architecture)
 - [Foobarlock](https://github.com/hcpty/foobarlock)
 - [Remote Mutex Lock and Remote Readers-Writer Lock](https://github.com/hcpty/remote-mutex-lock-and-remote-readers-writer-lock)
+- [Message Queue Task](https://github.com/hcpty/message-queue-task)
 - [HTTP Caching](https://github.com/hcpty/HTTP-Caching)
 - [Controlled-Access CDN](https://github.com/hcpty/controlled-access-cdn)
 - [Page Table, Page Number and Byte Offset](https://github.com/hcpty/page-table-page-number-and-byte-offset)
