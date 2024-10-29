@@ -16,7 +16,6 @@ Config files for my GitHub profile.
 - [Representational State Transfer Architectural Style](https://github.com/hcpty/representational-state-transfer-architectural-style)
 - [HTTP Cookie](https://github.com/hcpty/http-cookie)
 - [Engine-Extension-Activity Architecture](https://github.com/hcpty/engine-extension-activity-architecture)
-- [Different Types of Databases](https://github.com/hcpty/different-types-of-databases)
 - [Foobarlock](https://github.com/hcpty/foobarlock)
 - [Remote Mutex Lock and Remote Readers-Writer Lock](https://github.com/hcpty/remote-mutex-lock-and-remote-readers-writer-lock)
 - [HTTP Caching](https://github.com/hcpty/HTTP-Caching)
