@@ -4,7 +4,6 @@ Config files for my GitHub profile.
 ### Spells
 - [My Problems](https://github.com/hcpty/my-problems)
 - [My Occupation](https://github.com/hcpty/my-occupation)
-- [My Favorites](https://github.com/hcpty/my-favorites)
 - [Interrupts](https://github.com/hcpty/interrupts)
 - [Traditional Memory Access Transfer vs Direct Memory Access Transfer](https://github.com/hcpty/traditional-memory-access-transfer-vs-direct-memory-access-transfer)
 - [Traditional-Copy vs Zero-Copy](https://github.com/hcpty/traditional-copy-vs-zero-copy)
