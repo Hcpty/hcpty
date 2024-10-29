@@ -33,7 +33,7 @@ Config files for my GitHub profile.
 
 ### Wand
 - [POSIX Shell & Utilities](https://pubs.opengroup.org/onlinepubs/9799919799/)
-- [Apache Cassandra](https://cassandra.apache.org/), [Apache Kafka](https://kafka.apache.org/) and [Hcpty Sisyphus](https://github.com/hcpty/sisyphus)
+- [Apache Cassandra](https://cassandra.apache.org/), [Hcpty Sisyphus](https://github.com/hcpty/sisyphus) and [Apache Kafka](https://kafka.apache.org/)
 - [Oracle Java & Libraries](https://docs.oracle.com/en/java/javase/), [Eclipse Vert.x Core](https://github.com/eclipse-vertx/vert.x), [Apache Cassandra Java Client](https://github.com/apache/cassandra-java-driver) and [Apache Kafka Java Client](https://kafka.apache.org/documentation.html#api)
 - [Hcpty Arc](https://github.com/hcpty/arc), [Hcpty Dum-E](https://github.com/hcpty/dum-e), [Hcpty Layer](https://github.com/hcpty/layer) and [F5 NGINX](https://www.f5.com/products/nginx)
 - [Mozilla Firefox](https://developer.mozilla.org/)
