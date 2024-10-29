@@ -32,9 +32,9 @@ Config files for my GitHub profile.
 - [Password Storage](https://github.com/hcpty/password-storage)
 
 ### Utilities
+- [Layer](https://github.com/hcpty/layer)
 - [Arc](https://github.com/hcpty/arc)
 - [Dum-E](https://github.com/hcpty/dum-e)
-- [Skin](https://github.com/hcpty/skin)
 
 ### Credits
 - CU
