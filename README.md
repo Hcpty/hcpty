@@ -34,7 +34,7 @@ Config files for my GitHub profile.
 ### Utilities
 - [Arc](https://github.com/hcpty/arc)
 - [Dum-E](https://github.com/hcpty/dum-e)
-- [Layer](https://github.com/hcpty/layer)
+- [Skin](https://github.com/hcpty/skin)
 
 ### Credits
 - CU
