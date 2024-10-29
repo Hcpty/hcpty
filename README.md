@@ -37,6 +37,7 @@ Config files for my GitHub profile.
 - [Apache Cassandra](https://cassandra.apache.org/), [Apache Kafka](https://kafka.apache.org/), [Apache Cassandra Java Client](https://github.com/apache/cassandra-java-driver) and [Apache Kafka Java Client](https://kafka.apache.org/documentation.html#api)
 - [Hcpty Arc](https://github.com/hcpty/arc), [Hcpty Dum-E](https://github.com/hcpty/dum-e), [Hcpty Layer](https://github.com/hcpty/layer) and [F5 NGINX](https://www.f5.com/products/nginx)
 - [OpenJS Electron](https://www.electronjs.org/)
+- [Mozilla Firefox](https://developer.mozilla.org/)
 
 ### Credits
 - CU
