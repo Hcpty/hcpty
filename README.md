@@ -1,7 +1,7 @@
 # Readme
 Config files for my GitHub profile.
 
-### Theories
+### Spells
 - [My Problems](https://github.com/hcpty/my-problems)
 - [My Occupation](https://github.com/hcpty/my-occupation)
 - [My Favorites](https://github.com/hcpty/my-favorites)
@@ -32,7 +32,7 @@ Config files for my GitHub profile.
 - [Denial-Of-Service Attack](https://github.com/hcpty/denial-of-service-attack)
 - [Password Storage](https://github.com/hcpty/password-storage)
 
-### Utilities
+### Wand
 - [Hcpty Arc](https://github.com/hcpty/arc)
 - [Hcpty Dum-E](https://github.com/hcpty/dum-e)
 - [Hcpty Layer](https://github.com/hcpty/layer)
