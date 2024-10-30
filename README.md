@@ -34,9 +34,11 @@ Config files for my GitHub profile.
 
 ### Wand
 - [POSIX Shell & Utilities](https://pubs.opengroup.org/onlinepubs/9799919799/)
-- [Apache Cassandra](https://cassandra.apache.org/), [Hcpty Tesseract](https://github.com/hcpty/tesseract) and [Apache Kafka](https://kafka.apache.org/)
-- [Oracle Java & Libraries](https://docs.oracle.com/en/java/javase/), [Apache Cassandra Java Client](https://github.com/apache/cassandra-java-driver) and [Apache Kafka Java Client](https://kafka.apache.org/documentation.html#api)
-- [Hcpty Arc](https://github.com/hcpty/arc), [Hcpty Dum-E](https://github.com/hcpty/dum-e), [Hcpty Tower](https://github.com/hcpty/tower) and [F5 NGINX](https://www.f5.com/products/nginx)
+- [Oracle Java & Libraries](https://docs.oracle.com/en/java/javase/)
+- [Apache Cassandra](https://cassandra.apache.org/), [Hcpty Tesseract](https://github.com/hcpty/tesseract) and [Apache Cassandra Java Client](https://github.com/apache/cassandra-java-driver)
+- [Apache Kafka](https://kafka.apache.org/) and [Apache Kafka Java Client](https://kafka.apache.org/documentation.html#api)
+- [Hcpty Arc](https://github.com/hcpty/arc), [Hcpty Dum-E](https://github.com/hcpty/dum-e) and [F5 NGINX](https://www.f5.com/products/nginx)
+- [Hcpty Tower](https://github.com/hcpty/tower)
 - [Mozilla Firefox](https://developer.mozilla.org/)
 
 ### Credits
