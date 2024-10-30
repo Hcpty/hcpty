@@ -23,7 +23,7 @@ Config files for my GitHub profile.
 - [HTTP Caching](https://github.com/hcpty/HTTP-Caching)
 - [Controlled-Access CDN](https://github.com/hcpty/controlled-access-cdn)
 - [Redundant Array of Independent Disks](https://github.com/hcpty/redundant-array-of-independent-disks)
-- [Redundant Array of Independent Databases](https://github.com/hcpty/redundant-array-of-independent-databases)
+- [Redundant Array of Independent Database Nodes](https://github.com/hcpty/redundant-array-of-independent-database-nodes)
 - [10000-Connection Solutions and 10000000-Connection Solutions](https://github.com/hcpty/10000-connection-solutions-and-10000000-connection-solutions)
 - [12 Factors](https://github.com/hcpty/12-factors)
 - [Man-In-The-Middle Attack](https://github.com/hcpty/man-in-the-middle-attack)
