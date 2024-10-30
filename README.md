@@ -2,7 +2,7 @@
 Config files for my GitHub profile.
 
 ### Spells
-- [My Problems](https://github.com/hcpty/my-problems)
+- [Paths and Ruts](https://github.com/hcpty/paths-and-ruts)
 - [Computer](https://github.com/hcpty/computer)
 - [Interrupts](https://github.com/hcpty/interrupts)
 - [Page Table, Page Number and Byte Offset](https://github.com/hcpty/page-table-page-number-and-byte-offset)
