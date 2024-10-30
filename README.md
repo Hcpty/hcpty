@@ -22,7 +22,7 @@ Config files for my GitHub profile.
 - [HTTP Caching](https://github.com/hcpty/HTTP-Caching)
 - [Controlled-Access CDN](https://github.com/hcpty/controlled-access-cdn)
 - [Redundant Array of Independent Disks](https://github.com/hcpty/redundant-array-of-independent-disks)
-- [Redundant Array of Independent Database Nodes](https://github.com/hcpty/redundant-array-of-independent-database-nodes)
+- [Redundant Array of Independent Nodes](https://github.com/hcpty/redundant-array-of-independent-nodes)
 - [Representational State Transfer Architectural Style](https://github.com/hcpty/representational-state-transfer-architectural-style)
 - [Representation Storage, Processing and Transfer](https://github.com/hcpty/representation-storage-processing-and-transfer)
 - [10000-Connection Solutions and 10000000-Connection Solutions](https://github.com/hcpty/10000-connection-solutions-and-10000000-connection-solutions)
