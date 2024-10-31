@@ -1,8 +1,10 @@
 # Readme
 Config files for my GitHub profile.
 
-### Spells
+### Philosophy
 - [Paths and Ruts](https://github.com/hcpty/paths-and-ruts)
+
+### Spells
 - [Computer](https://github.com/hcpty/computer)
 - [Interrupts](https://github.com/hcpty/interrupts)
 - [Page Table, Page Number and Byte Offset](https://github.com/hcpty/page-table-page-number-and-byte-offset)
