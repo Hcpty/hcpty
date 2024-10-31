@@ -28,7 +28,7 @@ Config files for my GitHub profile.
 - [Representational State Transfer Architectural Style](https://github.com/hcpty/representational-state-transfer-architectural-style)
 - [Representation Storage, Processing and Transfer](https://github.com/hcpty/representation-storage-processing-and-transfer)
 - [Semantic Versioning](https://github.com/hcpty/semantic-versioning)
-- [Type, Primitive and Class](https://github.com/hcpty/type-primitive-and-class)
+- [Type vs Primitive and Class](https://github.com/hcpty/type-vs-primitive-and-class)
 - [Data Structure Heap vs Memeory Layout Heap](https://github.com/hcpty/data-structure-heap-vs-memory-layout-heap)
 - [Primary Key vs Unique Key](https://github.com/hcpty/primary-key-vs-unique-key)
 - [Last-Modified vs ETag](https://github.com/hcpty/last-modified-vs-etag)
