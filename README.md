@@ -31,6 +31,7 @@ Config files for my GitHub profile.
 - [Type, Primitive and Class](https://github.com/hcpty/type-primitive-and-class)
 - [Data Structure Heap vs Memeory Layout Heap](https://github.com/hcpty/data-structure-heap-vs-memory-layout-heap)
 - [Primary Key vs Unique Key](https://github.com/hcpty/primary-key-vs-unique-key)
+- [Last-Modified vs ETag](https://github.com/hcpty/last-modified-vs-etag)
 - [10000-Connection Solutions and 10000000-Connection Solutions](https://github.com/hcpty/10000-connection-solutions-and-10000000-connection-solutions)
 - [12 Factors](https://github.com/hcpty/12-factors)
 - [Man-In-The-Middle Attack](https://github.com/hcpty/man-in-the-middle-attack)
