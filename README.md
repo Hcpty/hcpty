@@ -45,6 +45,6 @@ Config files for my GitHub profile.
 - CU
 - ALU
 - Registers
-- MMU, Page Table and RAM
+- MMU, Page Tables and RAM
 - ROM, Interrupt Handlers and Apps
-- a lot others
+- and a lot others
