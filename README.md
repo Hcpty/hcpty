@@ -35,6 +35,7 @@ Config files for my GitHub profile.
 - [Epoch](https://github.com/hcpty/epoch)
 - [Greenwich Mean Time](https://github.com/hcpty/greenwich-mean-time)
 - [Favicon](https://github.com/hcpty/favicon)
+- [robots.txt](https://github.com/hcpty/robots.txt)
 - [10000-Connection Solutions and 10000000-Connection Solutions](https://github.com/hcpty/10000-connection-solutions-and-10000000-connection-solutions)
 - [12 Factors](https://github.com/hcpty/12-factors)
 - [Man-In-The-Middle Attack](https://github.com/hcpty/man-in-the-middle-attack)
