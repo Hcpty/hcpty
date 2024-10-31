@@ -27,6 +27,7 @@ Config files for my GitHub profile.
 - [Redundant Array of Independent Nodes](https://github.com/hcpty/redundant-array-of-independent-nodes)
 - [Representational State Transfer Architectural Style](https://github.com/hcpty/representational-state-transfer-architectural-style)
 - [Representation Storage, Processing and Transfer](https://github.com/hcpty/representation-storage-processing-and-transfer)
+- [Semantic Versioning](https://github.com/hcpty/semantic-versioning)
 - [10000-Connection Solutions and 10000000-Connection Solutions](https://github.com/hcpty/10000-connection-solutions-and-10000000-connection-solutions)
 - [12 Factors](https://github.com/hcpty/12-factors)
 - [Man-In-The-Middle Attack](https://github.com/hcpty/man-in-the-middle-attack)
