@@ -23,7 +23,7 @@ Config files for my GitHub profile.
 - [Message Queue Task](https://github.com/hcpty/message-queue-task)
 - [HTTP Caching](https://github.com/hcpty/HTTP-Caching)
 - [Last-Modified vs ETag](https://github.com/hcpty/last-modified-vs-etag)
-- [Controlled-Access CDN](https://github.com/hcpty/controlled-access-cdn)
+- [Controlled-Access CDN Gateway](https://github.com/hcpty/controlled-access-cdn-gateway)
 - [Redundant Array of Independent Disks](https://github.com/hcpty/redundant-array-of-independent-disks)
 - [Dataspace Management Unit](https://github.com/hcpty/dataspace-management-unit)
 - [Representational State Transfer Architectural Style](https://github.com/hcpty/representational-state-transfer-architectural-style)
