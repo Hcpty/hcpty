@@ -42,6 +42,7 @@ Config files for my GitHub profile.
 - [SSH, TLS and DNSSEC](https://github.com/hcpty/ssh-tls-and-dnssec)
 - [Denial-Of-Service Attack](https://github.com/hcpty/denial-of-service-attack)
 - [Password Storage](https://github.com/hcpty/password-storage)
+- [Multi-Factor Authentication](https://github.com/hcpty/multi-factor-authentication)
 
 ### Wand
 - [POSIX Shell & Utilities](https://pubs.opengroup.org/onlinepubs/9799919799/)
