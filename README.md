@@ -25,7 +25,7 @@ Config files for my GitHub profile.
 - [Last-Modified vs ETag](https://github.com/hcpty/last-modified-vs-etag)
 - [Controlled-Access CDN Gateway](https://github.com/hcpty/controlled-access-cdn-gateway)
 - [Redundant Array of Independent Disks](https://github.com/hcpty/redundant-array-of-independent-disks)
-- [Typed Tablespace Management Unit](https://github.com/hcpty/typed-tablespace-management-unit)
+- [Database Management Unit](https://github.com/hcpty/database-management-unit)
 - [Representational State Transfer Architectural Style](https://github.com/hcpty/representational-state-transfer-architectural-style)
 - [Representation Storage, Processing and Transfer](https://github.com/hcpty/representation-storage-processing-and-transfer)
 - [Semantic Versioning](https://github.com/hcpty/semantic-versioning)
