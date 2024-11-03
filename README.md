@@ -2,7 +2,7 @@
 Config files for my GitHub profile.
 
 ### Philosophy
-- [Ruts-and-Paths](https://github.com/hcpty/ruts-and-paths)
+- [Ruts-and-Path](https://github.com/hcpty/ruts-and-path)
 
 ### Spells
 - [Computer](https://github.com/hcpty/computer)
