@@ -4,6 +4,9 @@ Config files for my GitHub profile.
 ### Philosophy
 - [Ruts-and-Path](https://github.com/hcpty/ruts-and-path)
 
+### About Me
+- [My Regrets](https://github.com/hcpty/my-regrets)
+
 ### Spells
 - [Computer](https://github.com/hcpty/computer)
 - [Interrupts](https://github.com/hcpty/interrupts)
