@@ -7,7 +7,7 @@ Config files for my GitHub profile.
 ### Spells
 - [Computer](https://github.com/hcpty/computer)
 - [Interrupts](https://github.com/hcpty/interrupts)
-- [Page Table, Page Number and Byte Offset](https://github.com/hcpty/page-table-page-number-and-byte-offset)
+- [Page Tables, Page Number and Byte Offset](https://github.com/hcpty/page-tables-page-number-and-byte-offset)
 - [System Design Steps and System Implementation Steps](https://github.com/hcpty/system-design-steps-and-system-implementation-steps)
 - [Traditional Memory Access Transfer vs Direct Memory Access Transfer](https://github.com/hcpty/traditional-memory-access-transfer-vs-direct-memory-access-transfer)
 - [Traditional-Copy vs Zero-Copy](https://github.com/hcpty/traditional-copy-vs-zero-copy)
