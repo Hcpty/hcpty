@@ -4,6 +4,9 @@ Config files for my GitHub profile.
 ### Philosophy
 - [Ruts-and-Path](https://github.com/hcpty/ruts-and-path)
 
+### About Me
+- [About Me](https://github.com/hcpty/about-me)
+
 ### Spells
 - [Computer](https://github.com/hcpty/computer)
 - [Interrupts](https://github.com/hcpty/interrupts)
@@ -29,9 +32,9 @@ Config files for my GitHub profile.
 - [Representation Storage, Processing and Transfer](https://github.com/hcpty/representation-storage-processing-and-transfer)
 - [Semantic Versioning](https://github.com/hcpty/semantic-versioning)
 - [Type vs Primitive and Class](https://github.com/hcpty/type-vs-primitive-and-class)
-- [Data Structure Heap vs Memeory Layout Heap](https://github.com/hcpty/data-structure-heap-vs-memory-layout-heap)
+- [Data Structure Heap vs Program Memeory Layout Heap](https://github.com/hcpty/data-structure-heap-vs-program-memory-layout-heap)
 - [Primary Key vs Unique Key](https://github.com/hcpty/primary-key-vs-unique-key)
-- [Epoch](https://github.com/hcpty/epoch)
+- [Unix Epoch](https://github.com/hcpty/unix-epoch)
 - [Greenwich Mean Time](https://github.com/hcpty/greenwich-mean-time)
 - [Favicon](https://github.com/hcpty/favicon)
 - [robots.txt](https://github.com/hcpty/robots.txt)
