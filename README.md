@@ -21,7 +21,7 @@ Config files for my GitHub profile.
 - [Inheritance and Overloading and Object Composition](https://github.com/hcpty/inheritance-and-overloading-and-object-composition)
 - [HTTP Cookie](https://github.com/hcpty/http-cookie)
 - [Engine-Extension-Activity Architecture](https://github.com/hcpty/engine-extension-activity-architecture)
-- [Remote Mutex Lock and Remote Readers-Writer Lock](https://github.com/hcpty/remote-mutex-lock-and-remote-readers-writer-lock)
+- [A Remote Mutex Lock and Remote Readers-Writer Lock Design](https://github.com/hcpty/a-remote-mutex-lock-and-remote-readers-writer-lock-design)
 - [Message Queue Task](https://github.com/hcpty/message-queue-task)
 - [HTTP Caching](https://github.com/hcpty/HTTP-Caching)
 - [Last-Modified vs ETag](https://github.com/hcpty/last-modified-vs-etag)
