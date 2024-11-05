@@ -43,7 +43,7 @@ Config files for my GitHub profile.
 - [Multi-Factor Authentication](https://github.com/hcpty/multi-factor-authentication)
 
 ### Wand
-- [Oracle Java & Libraries](https://docs.oracle.com/en/java/javase/)
+- [Oracle Java & APIs](https://docs.oracle.com/en/java/javase/)
 - [Microsoft TypeScript](https://www.typescriptlang.org/) & [Peripheries](https://developer.mozilla.org/)
 
 ### Credits
