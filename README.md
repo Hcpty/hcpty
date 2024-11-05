@@ -29,7 +29,7 @@ Config files for my GitHub profile.
 - [Redundant Array of Independent Disks](https://github.com/hcpty/redundant-array-of-independent-disks)
 - [Database Management Unit](https://github.com/hcpty/database-management-unit)
 - [Representational State Transfer Architectural Style](https://github.com/hcpty/representational-state-transfer-architectural-style)
-- [Representation Storage, Processing and Transfer](https://github.com/hcpty/representation-storage-processing-and-transfer)
+- [Representation Storing and Processing and Event Handling](https://github.com/hcpty/representation-storing-and-processing-and-event-handling)
 - [Semantic Versioning](https://github.com/hcpty/semantic-versioning)
 - [Type vs Primitive and Class](https://github.com/hcpty/type-vs-primitive-and-class)
 - [Data Structure Heap vs Program Memeory Layout Heap](https://github.com/hcpty/data-structure-heap-vs-program-memory-layout-heap)
