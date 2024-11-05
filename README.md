@@ -45,7 +45,7 @@ Config files for my GitHub profile.
 
 ### Wand
 
-- For Message Exchanging:
+- For Resource Exchanging:
 
 - For Resource Storing:
 - For Resource Processing:
