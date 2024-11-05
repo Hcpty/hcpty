@@ -47,8 +47,6 @@ Config files for my GitHub profile.
 - [Oracle Java & Libraries](https://docs.oracle.com/en/java/javase/)
 - [Microsoft TypeScript](https://www.typescriptlang.org/) & [Surrounds](https://developer.mozilla.org/)
 
-### Favorites
-
 ### Credits
 - CU
 - ALU
