@@ -45,8 +45,8 @@ Config files for my GitHub profile.
 
 ### Wand
 - Event Handling
-  - Information Presenting
   - Message Exchanging
+  - Information Presenting
 
 ### Credits
 - CU
