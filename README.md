@@ -45,6 +45,7 @@ Config files for my GitHub profile.
 ### Wand
 - [POSIX Shell & Utilities](https://pubs.opengroup.org/onlinepubs/9799919799/)
 - [Oracle Java & Libraries](https://docs.oracle.com/en/java/javase/)
+- [Microsoft TypeScript](https://www.typescriptlang.org/) & [Surrounds](https://developer.mozilla.org/)
 
 ### Credits
 - CU
