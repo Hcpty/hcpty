@@ -19,7 +19,7 @@ Config files for my GitHub profile.
 - [HTTP Cookie](https://github.com/hcpty/http-cookie)
 - [Engine-Extensions-Handlers Architecture](https://github.com/hcpty/engine-extensions-handlers-architecture)
 - [A Remote Mutex Lock and Remote Readers-Writer Lock Design](https://github.com/hcpty/a-remote-mutex-lock-and-remote-readers-writer-lock-design)
-- [MQ](https://github.com/hcpty/mq)
+- [Message Queue](https://github.com/hcpty/message-queue)
 - [HTTP Caching](https://github.com/hcpty/HTTP-Caching)
 - [Last-Modified vs ETag](https://github.com/hcpty/last-modified-vs-etag)
 - [Controlled-Access CDN Gateway](https://github.com/hcpty/controlled-access-cdn-gateway)
