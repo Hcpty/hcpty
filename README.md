@@ -26,7 +26,7 @@ Config files for my GitHub profile.
 - [Redundant Array of Independent Disks](https://github.com/hcpty/redundant-array-of-independent-disks)
 - [Database Management Unit](https://github.com/hcpty/database-management-unit)
 - [Representational State Transfer Architectural Style](https://github.com/hcpty/representational-state-transfer-architectural-style)
-- [Representation Storing and Processing and Event Handling](https://github.com/hcpty/representation-storing-and-processing-and-event-handling)
+- [Datum Storing and Representation Processing and Event Handling](https://github.com/hcpty/datum-storing-representation-processing-and-event-handling)
 - [Semantic Versioning](https://github.com/hcpty/semantic-versioning)
 - [Type vs Primitive and Class](https://github.com/hcpty/type-vs-primitive-and-class)
 - [Data Structure Heap vs Program Memeory Layout Heap](https://github.com/hcpty/data-structure-heap-vs-program-memory-layout-heap)
@@ -44,13 +44,6 @@ Config files for my GitHub profile.
 - [Multi-Factor Authentication](https://github.com/hcpty/multi-factor-authentication)
 
 ### Wand
-- [POSIX Shell & Utilities](https://pubs.opengroup.org/onlinepubs/9799919799/)
-- [Oracle Java & Libraries](https://docs.oracle.com/en/java/javase/) and [Eclipse Vert.x Core](https://github.com/eclipse-vertx/vert.x)
-- [Apache Cassandra](https://cassandra.apache.org/), [Apache Cassandra Java Client](https://github.com/apache/cassandra-java-driver) and [Hcpty Tesseract](https://github.com/hcpty/tesseract)
-- [Apache Kafka](https://kafka.apache.org/) and [Apache Kafka Java Client](https://kafka.apache.org/documentation.html#api)
-- [Hcpty Arc](https://github.com/hcpty/arc), [Hcpty Dum-E](https://github.com/hcpty/dum-e) and [F5 NGINX](https://www.f5.com/products/nginx)
-- [Hcpty Tower](https://github.com/hcpty/tower)
-- [Mozilla Firefox](https://developer.mozilla.org/)
 
 ### Credits
 - CU
