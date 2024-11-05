@@ -43,9 +43,6 @@ Config files for my GitHub profile.
 - [Multi-Factor Authentication](https://github.com/hcpty/multi-factor-authentication)
 
 ### Wand
-- Event Handling
-- Representation Processing
-- Representation Storing
 
 ### Credits
 - CU
