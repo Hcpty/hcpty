@@ -26,7 +26,6 @@ Config files for my GitHub profile.
 - [Redundant Array of Independent Disks](https://github.com/hcpty/redundant-array-of-independent-disks)
 - [Database Management Unit](https://github.com/hcpty/database-management-unit)
 - [Representational State Transfer Architectural Style](https://github.com/hcpty/representational-state-transfer-architectural-style)
-- [World Wide Web App](https://github.com/hcpty/world-wide-web-app)
 - [Semantic Versioning](https://github.com/hcpty/semantic-versioning)
 - [Type vs Primitive and Class](https://github.com/hcpty/type-vs-primitive-and-class)
 - [Data Structure Heap vs Program Memory Layout Heap](https://github.com/hcpty/data-structure-heap-vs-program-memory-layout-heap)
@@ -45,8 +44,8 @@ Config files for my GitHub profile.
 
 ### Wand
 - Event Handling
-  - Information Presenting
-  - Message Exchanging
+- Representation Processing
+- Representation Storing
 
 ### Credits
 - CU
