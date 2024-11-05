@@ -44,9 +44,9 @@ Config files for my GitHub profile.
 - [Multi-Factor Authentication](https://github.com/hcpty/multi-factor-authentication)
 
 ### Wand
-- Message Exchanger:
-- Resource Storer:
-- Resource Processor:
+- Event Handling
+  - Information Presenting
+  - Message Exchanging
 
 ### Credits
 - CU
