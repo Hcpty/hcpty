@@ -29,7 +29,7 @@ Config files for my GitHub profile.
 - [World Wide Web App](https://github.com/hcpty/world-wide-web-app)
 - [Semantic Versioning](https://github.com/hcpty/semantic-versioning)
 - [Type vs Primitive and Class](https://github.com/hcpty/type-vs-primitive-and-class)
-- [Data Structure Heap vs Program Memeory Layout Heap](https://github.com/hcpty/data-structure-heap-vs-program-memory-layout-heap)
+- [Data Structure Heap vs Program Memory Layout Heap](https://github.com/hcpty/data-structure-heap-vs-program-memory-layout-heap)
 - [Primary Key vs Unique Key](https://github.com/hcpty/primary-key-vs-unique-key)
 - [Unix Epoch](https://github.com/hcpty/unix-epoch)
 - [Greenwich Mean Time](https://github.com/hcpty/greenwich-mean-time)
