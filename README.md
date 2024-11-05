@@ -49,7 +49,6 @@ Config files for my GitHub profile.
 
 - For Resource Storing:
 - For Resource Processing:
-- For Resource Presenting:
 
 ### Credits
 - CU
