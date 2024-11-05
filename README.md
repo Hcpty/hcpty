@@ -5,7 +5,7 @@ Config files for my GitHub profile.
 - [Ruts-and-Path](https://github.com/hcpty/ruts-and-path)
 
 ### My Regrets
-- [My Regrets](https://github.com/hcpty/my-regrets)
+- [My Life Regrets](https://github.com/hcpty/my-life-regrets)
 
 ### Spells
 - [Computer](https://github.com/hcpty/computer)
