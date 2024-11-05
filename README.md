@@ -8,7 +8,7 @@ Config files for my GitHub profile.
 - [Computer](https://github.com/hcpty/computer)
 - [Interrupts](https://github.com/hcpty/interrupts)
 - [Page Tables, Page Number and Byte Offset](https://github.com/hcpty/page-tables-page-number-and-byte-offset)
-- [Traditional Memory Access Transfer vs Direct Memory Access Transfer](https://github.com/hcpty/traditional-memory-access-transfer-vs-direct-memory-access-transfer)
+- [TMA Transfer vs DMA Transfer](https://github.com/hcpty/tma-transfer-vs-dma-transfer)
 - [Traditional-Copy vs Zero-Copy](https://github.com/hcpty/traditional-copy-vs-zero-copy)
 - [System Design Steps and System Implementation Steps](https://github.com/hcpty/system-design-steps-and-system-implementation-steps)
 - [Event-Driven Step-Arranged Programming](https://github.com/hcpty/event-driven-step-arranged-programming)
@@ -26,7 +26,7 @@ Config files for my GitHub profile.
 - [Redundant Array of Independent Disks](https://github.com/hcpty/redundant-array-of-independent-disks)
 - [Database Management Unit](https://github.com/hcpty/database-management-unit)
 - [Representational State Transfer Architectural Style](https://github.com/hcpty/representational-state-transfer-architectural-style)
-- [Architectural Style of World Wide Web App](https://github.com/hcpty/architectural-style-of-world-wide-web-app)
+- [World Wide Web App](https://github.com/hcpty/world-wide-web-app)
 - [Semantic Versioning](https://github.com/hcpty/semantic-versioning)
 - [Type vs Primitive and Class](https://github.com/hcpty/type-vs-primitive-and-class)
 - [Data Structure Heap vs Program Memeory Layout Heap](https://github.com/hcpty/data-structure-heap-vs-program-memory-layout-heap)
@@ -44,6 +44,12 @@ Config files for my GitHub profile.
 - [Multi-Factor Authentication](https://github.com/hcpty/multi-factor-authentication)
 
 ### Wand
+
+- For Message Exchanging:
+
+- For Resource Storing:
+- For Resource Processing:
+- For Resource Presenting:
 
 ### Credits
 - CU
