@@ -44,6 +44,7 @@ Config files for my GitHub profile.
 - [Denial-Of-Service Attack](https://github.com/hcpty/denial-of-service-attack)
 - [Password Storage](https://github.com/hcpty/password-storage)
 - [Multi-Factor Authentication](https://github.com/hcpty/multi-factor-authentication)
+- [POSIX Shell & Utilities](https://github.com/hcpty/posix-shell-and-utilities)
 
 ### Wand
 - [Oracle Java & APIs](https://docs.oracle.com/en/java/javase/)
