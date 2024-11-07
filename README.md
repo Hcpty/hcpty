@@ -31,7 +31,7 @@ Config files for my GitHub profile.
 - [Data Structure Heap vs Program Memory Layout Heap](https://github.com/hcpty/data-structure-heap-vs-program-memory-layout-heap)
 - [Primary Key vs Unique Key](https://github.com/hcpty/primary-key-vs-unique-key)
 - [Unix Epoch](https://github.com/hcpty/unix-epoch)
-- [Greenwich Mean Time](https://github.com/hcpty/greenwich-mean-time)
+- [Greenwich Mean Time and Coordinated Universal Time](https://github.com/hcpty/greenwich-mean-time-and-coordinated-universal-time)
 - [POSIX Shell & Utilities](https://github.com/hcpty/posix-shell-and-utilities)
 - [Favicon](https://github.com/hcpty/favicon)
 - [robots.txt](https://github.com/hcpty/robots.txt)
