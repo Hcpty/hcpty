@@ -25,6 +25,7 @@ Config files for my GitHub profile.
 - [Controlled-Access CDN Gateway](https://github.com/Hcpty/controlled-access-cdn-gateway)
 - [Redundant Array of Independent Disks](https://github.com/Hcpty/redundant-array-of-independent-disks)
 - [Database Management Unit](https://github.com/Hcpty/database-management-unit)
+- [Object Storage Management Unit](https://github.com/Hcpty/object-storage-management-unit)
 - [Message Queue Management Unit](https://github.com/Hcpty/message-queue-management-unit)
 - [Representational State Transfer Architectural Style](https://github.com/Hcpty/representational-state-transfer-architectural-style)
 - [Semantic Versioning](https://github.com/Hcpty/semantic-versioning)
